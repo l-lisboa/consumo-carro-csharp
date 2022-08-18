@@ -1,0 +1,1 @@
+Exemplo 11 aprimorado - Criar um algoritmo que leia o consumo médio do seu carro, a distância a ser percorrida, o valor médio do combustivel, calcule a quantidade de litros que ele irá consumir e o valor médio que você gastará em reais.
